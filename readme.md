@@ -1,6 +1,6 @@
 <h1>Next Level Foods</h1>
 <h4>
-    é uma plataforma desenvolvida utilizando Next.js e sqLite3, que permite aos usuários compartilharem suas receitas favoritas e descobrirem novos pratos deliciosos. A aplicação visa criar uma comunidade de entusiastas da culinária, promovendo a troca de experiências e inspirando a criatividade na cozinha.
+    É uma plataforma desenvolvida utilizando Next.js e sqLite3, que permite aos usuários compartilharem suas receitas favoritas e descobrirem novos pratos deliciosos. A aplicação visa criar uma comunidade de entusiastas da culinária, promovendo a troca de experiências e inspirando a criatividade na cozinha.
 </h4>
 <hr/>
 <img src="./public/images/thumb.png">
