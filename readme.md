@@ -3,7 +3,7 @@
     é uma plataforma desenvolvida utilizando Next.js e sqLite3, que permite aos usuários compartilharem suas receitas favoritas e descobrirem novos pratos deliciosos. A aplicação visa criar uma comunidade de entusiastas da culinária, promovendo a troca de experiências e inspirando a criatividade na cozinha.
 </h4>
 <hr/>
-<img src="./images/thumb.jpg">
+<img src="./public/images/thumb.png">
 
 <hr/>
 
@@ -17,31 +17,31 @@
 <h3>Como Executar a Aplicação:</h3>
 <p>Siga os passos abaixo para executar o projeto localmente:</p>
 
-<hr/>
+<br/>
 
 <h4>Pré-requisitos</h4>
 <p>Certifique-se de ter o Node.js instalado em sua máquina.</p>
 
-<hr/>
+<br/>
 
 <h4>Passos</h4>
 
-<hr/>
+<br/>
 
 <p><strong>Clone o Repositório:</strong></p>
 <p>https://github.com/DilleyAndrade/food-lovers.git</p>
 
-<hr/>
+<br/>
 
 <p><strong>Instale as Dependências:</strong></p>
 <p>npm install</p>
 
-<hr/>
+<br/>
 
 <p><strong>Inicie a Aplicação:</strong></p>
 <p>npm run dev</p>
 
-<hr/>
+<br/>
 
 <p><strong>Acesse a Aplicação:</strong></p>
 <p>Abra seu navegador e acesse http://localhost:3000.</p>
@@ -60,4 +60,4 @@
 <p>Este projeto é licenciado sob a Licença MIT.</p>
 
 
-<h4>Espero que desfrute da experiência de compartilhar e descobrir novos sabores! Se encontrar problemas ou tiver sugestões, não hesite em abrir uma issue no repositório.</h4>
+<p>Espero que desfrute da experiência de compartilhar e descobrir novos sabores! Se encontrar problemas ou tiver sugestões, não hesite em abrir uma issue no repositório.</p>
