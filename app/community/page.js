@@ -35,6 +35,6 @@ export default function CommunityPage() {
           </li>
         </ul>
       </main>
-    </>
+    </>    
   );
 }
